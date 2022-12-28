@@ -1,0 +1,26 @@
+[
+    {
+        "firstName": "Ajay",
+        "lastName": "Jadhav",
+        "email": "admin@123gmail.com",
+        "message": "I am cool"
+    },
+    {
+        "firstName": "Aman",
+        "lastName": "kathiyawad",
+        "email": "add@222gmail.com",
+        "message": "I am new to Js"
+    },
+    {
+        "firstName": "sumit",
+        "lastName": "kande",
+        "email": "sumit@111gmail.com",
+        "message": "I am so Lucky"
+    },
+    {
+        "firstName": "Kajal",
+        "lastName": "sane",
+        "email": "sane123@gmail.com",
+        "message": "I am a programmer"
+    }
+]
